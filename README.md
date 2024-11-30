@@ -1,7 +1,3 @@
-Here's a README for your PFP sender bot project:
-
----
-
 # PFP Sender Bot
 
 This bot scrapes profile pictures (pfps) from specified pages and sends them to a Discord channel through a webhook. The bot allows you to choose between different types of pfps (e.g., girl, guy, anime) and can send either square pfps or original ones based on your selection. It's built in Python and uses the `requests`, `BeautifulSoup`, and `logging` libraries.
@@ -63,7 +59,3 @@ The script logs any errors (e.g., failure to send an image) in a file called `sc
 ## License
 
 This project is open-source. Feel free to contribute or make changes!
-
----
-
-Let me know if you'd like to add or adjust anything in the README!
